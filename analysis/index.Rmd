@@ -10,7 +10,8 @@ editor_options:
 
 Welcome to my research website.
 
-```{r test}
-a <- 10
-a
-```
+##Basic R programming
+*[In-class assignment 1](inclass1.html)
+
+##Plotting
+##ggplot2
